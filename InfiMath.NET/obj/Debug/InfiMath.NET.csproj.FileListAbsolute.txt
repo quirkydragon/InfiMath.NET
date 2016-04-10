@@ -1,0 +1,5 @@
+D:\Jake\Documents\Rosalind\VS Project\InfiMath.NET\InfiMath.NET\bin\Debug\InfiMath.NET.dll
+D:\Jake\Documents\Rosalind\VS Project\InfiMath.NET\InfiMath.NET\bin\Debug\InfiMath.NET.pdb
+D:\Jake\Documents\Rosalind\VS Project\InfiMath.NET\InfiMath.NET\obj\Debug\InfiMath.NET.csprojResolveAssemblyReference.cache
+D:\Jake\Documents\Rosalind\VS Project\InfiMath.NET\InfiMath.NET\obj\Debug\InfiMath.NET.dll
+D:\Jake\Documents\Rosalind\VS Project\InfiMath.NET\InfiMath.NET\obj\Debug\InfiMath.NET.pdb
